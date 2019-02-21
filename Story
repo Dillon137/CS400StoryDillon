@@ -1,7 +1,1 @@
-Once upon a time there was a programmer named Vincent. Vincent loved using linux and his favourite editor was VIM.
-When Vincent was younger, he would use VI, but now he uses VIM- VI improved. 
-
-Now that he's learned the tricks of VIM he starts creating a wicked program. His goal is to create a BST class! 
-
-He realized that creating a BST class is harder than he thought and settled with creating a linked list
-instead of the BST.
+You're a nerd.
